@@ -9,7 +9,7 @@ We have done extensive testing and showed<sup>[1](#myfootnote1)</sup> that using
 Generating the AGA is extremely simple, just generate an ERP from all the EEG trials from the conditions of interest. Then find the window with the maximum (for a positive component i.e. P300) or minimum amplitude. Then use this window for any statistical analysis. 
 
 ![Comparision of the window placement when the AGA wave is used vs the Difference wave] [image]
-[image]: https://github.com/alexZ82/AGA/blob/master/ex1.jpg
+[image]: https://github.com/alexZ82/AGA/blob/master/ex2.jpg
 
 
 <a name="myfootnote1">1</a>: Work currently under submission
