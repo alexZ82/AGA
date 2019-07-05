@@ -11,5 +11,3 @@ Generating the AGA is extremely simple, just generate an ERP from all the EEG tr
 ![Comparision of the window placement when the AGA wave is used vs the Difference wave] [image]
 [image]: https://github.com/alexZ82/AGA/blob/master/ex2.jpg
 
-
-<a name="myfootnote1">1</a>: Work currently under submission
